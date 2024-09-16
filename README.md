@@ -3,7 +3,7 @@
 
 ## Description
 This project implements a Services API that can be used to support a dashboard widget. 
-### Implementd features:
+### Implemented features:
 
 - **Return a list of services**: <br>
    Supports filtering, sorting, and pagination.
