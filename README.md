@@ -82,10 +82,11 @@ GET /widget-service/:id/version?page=1&pageSize=10...
 
 To set up and run this project locally, follow these steps:
 
-1. **Unzip the file **: First, unzip the file to your local machine and navigate into the created directory.
+1. **Clone the repo **: First, clone the repo and cd into the created folder
 
    ```bash
-   cd <unzipped-directory>
+   git clone https://github.com/ronnyhel/widget-services-api
+   cd widget-services-api
    ```
 
 2. **Create a `.env` file**: Create a `.env` file in the root of your project directory with the following configuration:
